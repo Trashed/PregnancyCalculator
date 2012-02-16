@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pregnancy Calculator</string>
+    <string name="set_birth_activity">Set birth date</string>
+    <string name="set_date">Set date of birth:</string>
+    <string name="confirm_string">Confirm</string>
+    <string name="current_date_string">Current date:</string>
+    <string name="date_of_birth_string">Date of birth:</string>
+    <string name="estimated_time_string">Elapsed time of pregnancy:</string>
+    <string name="quit_string">Quit</string>
+    <string name="reset_string">Reset</string>
+    <string name="empty_string"></string>
+    <string name="insert_string">Insert birth date</string>
+
+</resources>
